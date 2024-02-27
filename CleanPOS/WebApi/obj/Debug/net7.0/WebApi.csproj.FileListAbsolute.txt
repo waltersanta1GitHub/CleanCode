@@ -37,3 +37,4 @@
 /Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/WebApi/obj/Debug/net7.0/WebApi.sourcelink.json
