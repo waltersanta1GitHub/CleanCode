@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOnky2OmrZz5hJ3T9TjOyvbP8H4wuzkjz0nQMj7/AaDxfQ3SMfDvdN8MNdKe4UsWO+yNPK48TvR35uw3heUFRA==",
+  "success": true,
+  "projectFilePath": "/Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/josewaltersantamariagarcia/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/josewaltersantamariagarcia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

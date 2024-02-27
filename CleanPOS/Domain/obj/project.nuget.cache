@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQ2VPHLUggdRRFUsWE0e4idtLLui9ZYoVE5YeU6jic/bikOYmBZClNe+FJvRBAAiTL/CHrnLJDjaHfZkb3sE0A==",
+  "success": true,
+  "projectFilePath": "/Users/josewaltersantamariagarcia/Documents/dotnet/CleanCode/CleanPOS/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/josewaltersantamariagarcia/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/josewaltersantamariagarcia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
