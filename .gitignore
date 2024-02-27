@@ -57,3 +57,9 @@ CleanPOS/WebApi/obj/Debug/net7.0/WebApi.pdb
 CleanPOS/WebApi/obj/Debug/net7.0/WebApi.sourcelink.json
 CleanPOS/WebApi/obj/Debug/net7.0/ref/WebApi.dll
 CleanPOS/WebApi/obj/Debug/net7.0/refint/WebApi.dll
+CleanPOS/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+CleanPOS/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+CleanPOS/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+CleanPOS/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+CleanPOS/Domain/obj/Debug/net7.0/Domain.assets.cache
+CleanPOS/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
