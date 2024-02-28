@@ -66,3 +66,5 @@ CleanPOS/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
 CleanPOS/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
 CleanPOS/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
 CleanPOS/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+.vscode/launch.json
+.vscode/tasks.json
