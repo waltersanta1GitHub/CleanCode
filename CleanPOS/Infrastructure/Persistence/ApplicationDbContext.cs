@@ -14,7 +14,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
 
     public ApplicationDbContext(DbContextOptions options, IPublisher publisher)
     {
-        _publisher = publisher ?? throw new ArgumentNullException(nameof(publisher|));
+        _publisher = publisher ?? throw new ArgumentNullException(nameof(publisher));
         
     }
 
